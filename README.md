@@ -1,2 +1,2 @@
-# TicTakToe
-A Tic Tak Toe game coded in python.
+# Python Programs  
+All the python programs and challenges that i code while learning python.
